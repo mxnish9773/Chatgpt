@@ -1,2 +1,2 @@
 # Chatgpt
-Learn chatgpt with Java
+Learn chatgpt for adavace prompting 
